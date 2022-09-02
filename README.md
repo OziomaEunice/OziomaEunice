@@ -6,6 +6,10 @@ I am Ozioma E. Onwubiko and welcome to my repository!
 - 🌱 I’m currently studying a Computer Science degree and so far it's been an interesting experience.
 - 💻 In every project I build you will see _"Designed by Ozioma E. Onwubiko"_ to clarify that it is from me...obvs!
 
+Some of my works are:
+- Fuel delivery service app: https://github.com/OziomaEunice/FuelDeliveryApp-
+- DCLM Scotland Website: https://github.com/OziomaEunice/DclmScotland
+
 Feel free to check out some work I've done and ask me about anything you would like to know about.
 
 <!--
