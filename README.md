@@ -25,7 +25,8 @@ and more...
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 
----
+
+&nbsp;
 Feel free to check out some work I've done and ask me about anything you would like to know about.
 - 📫 How to reach me: 
 LinkedIn: https://www.linkedin.com/in/ozioma-e-onwubiko/
