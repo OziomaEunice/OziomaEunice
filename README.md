@@ -35,7 +35,8 @@ and more...
 ### Contact info
 
 Feel free to check out some work I've done and ask me about anything you would like to know about.
-- 📫 How to reach me: 
+
+📫 How to reach me: 
 
 <img align="left" alt="linkedin" width="20px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>https://www.linkedin.com/in/ozioma-e-onwubiko/
 
