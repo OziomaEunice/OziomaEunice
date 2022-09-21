@@ -13,6 +13,12 @@ Some of my works are:
 
 and more...
 
+---
+
+### 🛠🧰 Languages & Tools
+
+<img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+
 Feel free to check out some work I've done and ask me about anything you would like to know about.
 
 <!--
