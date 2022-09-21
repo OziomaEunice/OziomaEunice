@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 👩🏽‍💻
 
 I am Ozioma E. Onwubiko and welcome to my repository!
 
