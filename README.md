@@ -8,9 +8,9 @@ I am Ozioma E. Onwubiko and welcome to my repository!
 
 #
 Some of my projects are:
-- Fuel delivery service app using Java (https://github.com/OziomaEunice/FuelDeliveryApp-)
+- Fuel delivery Service App using Java (https://github.com/OziomaEunice/FuelDeliveryApp-)
 - Parcel Tracking System using C# (https://github.com/OziomaEunice/ParcelTrackingSystem)
-- DCLM Scotland Website usng HTML, CSS & JS (https://github.com/OziomaEunice/DclmScotland)
+- DCLM Scotland Website using HTML, CSS & JS (https://github.com/OziomaEunice/DclmScotland)
 
 and more...
 
