@@ -2,7 +2,7 @@
 
 I am Ozioma E. Onwubiko and welcome to my repository!
 
-- 🔭 I’m currently working on various projects (some for fun and others for work, including uni work😄)
+- 🔭 I’m currently working on various projects (some for fun and others for uni work 😄)
 - 🌱 I’m currently studying a degree in Computer Science and so far it's been an interesting experience.
 - 💻 In every project I build you will see _"Designed by Ozioma E. Onwubiko"_ to clarify that it is from me...obvs!
 
