@@ -8,10 +8,10 @@ I am Ozioma E. Onwubiko and welcome to my repository!
 
 #
 Some of my projects are:
+- DCLM Scotland Website (Version 1) using Python Flask, HTML, CSS & JS (https://github.com/OziomaEunice/dclm)
 - E-Commerce Website using Python Flask and HTML, CSS & JS (https://github.com/OziomaEunice/ecommerce)
 - Fuel delivery Service App using Java (https://github.com/OziomaEunice/FuelDeliveryApp-)
 - Parcel Tracking System using C# (https://github.com/OziomaEunice/ParcelTrackingSystem)
-- DCLM Scotland Website (Version 1) using Python Flask, HTML, CSS & JS (https://github.com/OziomaEunice/dclm)
 
 and more...
 
