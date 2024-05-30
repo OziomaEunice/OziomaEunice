@@ -2,9 +2,9 @@
 
 I am Ozioma E. Onwubiko and welcome to my repository!
 
-- 🔭 I’m currently working on various projects (some for fun and others for uni work 😄)
-- 🌱 I’m currently studying a degree in Computer Science and so far it's been an interesting experience.
-- 💻 In every project I build you will see _"Designed by Ozioma E. Onwubiko"_ to clarify that it is from me...obvs!
+- 🔭 I work on various projects (some for fun and others for uni work 😄)
+- 🎓 I have a BSc Honours degree in Computer Science.
+- 💻 In my free time I like to draw 🎨, listen to music 🎧, and.... code!
 
 #
 Some of my projects are:
@@ -13,7 +13,7 @@ Some of my projects are:
 - Fuel delivery Service App using Java (https://github.com/OziomaEunice/FuelDeliveryApp-)
 - Parcel Tracking System using C# (https://github.com/OziomaEunice/ParcelTrackingSystem)
 
-and more...
+and lots more...
 
 ---
 
@@ -41,7 +41,7 @@ Feel free to check out some work I've done and ask me about anything you would l
 
 📫 How to reach me: 
 
-<img align="left" alt="linkedin" width="20px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>https://www.linkedin.com/in/ozioma-e-onwubiko/
+<img align="left" alt="linkedin" width="20px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>https://www.linkedin.com/in/ozioma-eunice-o/
 
 
 <!--
