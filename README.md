@@ -1,6 +1,6 @@
 ## Hi there! 👩🏽‍💻
 
-I am Ozioma E. Onwubiko and welcome to my repository!
+I am Ozioma Eunice O. and welcome to my repository!
 
 - 🔭 I work on various projects (some for fun and others for uni work 😄)
 - 🎓 I have a BSc Honours degree in Computer Science.
