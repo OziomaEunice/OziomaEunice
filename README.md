@@ -2,18 +2,21 @@
 
 I am Ozioma Eunice O. and welcome to my repository!
 
-- 🔭 I work on various projects (some for fun and others for uni work 😄)
+- 🔭 I work on various projects (like building websites, creating apps 😄)
 - 🎓 I have a BSc Honours degree in Computer Science.
 - 💻 In my free time I like to draw 🎨, listen to music 🎧, and.... code!
 
-#
-Some of my projects are:
+## Some of my projects are:
+- Housing Of The Future (Energy Efficient Home) using Ada-SPARK (https://github.com/OziomaEunice/FASE_cwk)
+- Evolving weights for a MLP using Genetic Algorithm (https://github.com/OziomaEunice/CI_cwk)
+- Building an auction system using ActressMas C# (https://github.com/OziomaEunice/MAS-coursework)
+- Building DE-Store system by implementing a software architecture (https://github.com/OziomaEunice/SA-cwk)
 - DCLM Scotland Website (Version 1) using Python Flask, HTML, CSS & JS (https://github.com/OziomaEunice/dclm)
 - E-Commerce Website using Python Flask and HTML, CSS & JS (https://github.com/OziomaEunice/ecommerce)
 - Fuel delivery Service App using Java (https://github.com/OziomaEunice/FuelDeliveryApp-)
 - Parcel Tracking System using C# (https://github.com/OziomaEunice/ParcelTrackingSystem)
 
-and lots more...
+and more...
 
 ---
 
@@ -42,19 +45,3 @@ Feel free to check out some work I've done and ask me about anything you would l
 📫 How to reach me: 
 
 <img align="left" alt="linkedin" width="20px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>https://www.linkedin.com/in/ozioma-eunice-o/
-
-
-<!--
-**OziomaEunice/OziomaEunice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
