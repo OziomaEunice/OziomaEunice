@@ -4,7 +4,7 @@ I am Ozioma Eunice O. and welcome to my repository!
 
 - 🔭 I work on various projects (like building websites, creating apps 😄)
 - 🎓 I have a degree in Computer Science
-- 👩🏽‍💼 I work as a Business Analyst 
+- 👩🏽‍💼 I'm a Business Analyst & a Creative Technologist (i.e. where software developement meets product design)
 - 💻 In my free time I like to draw 🎨, listen to music 🎧, and.... code!
 
 ## Some of my projects are:
