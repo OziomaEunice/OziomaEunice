@@ -3,10 +3,12 @@
 I am Ozioma Eunice O. and welcome to my repository!
 
 - 🔭 I work on various projects (like building websites, creating apps 😄)
-- 🎓 I have a BSc Honours degree in Computer Science.
+- 🎓 I have a degree in Computer Science
+- 👩🏽‍💼 I work as a Business Analyst 
 - 💻 In my free time I like to draw 🎨, listen to music 🎧, and.... code!
 
 ## Some of my projects are:
+- SentimentGPT (https://github.com/OziomaEunice/Sentiment_GPT)
 - Housing Of The Future (Energy Efficient Home) using Ada-SPARK (https://github.com/OziomaEunice/FASE_cwk)
 - Evolving weights for a MLP using Genetic Algorithm (https://github.com/OziomaEunice/CI_cwk)
 - Building an auction system using ActressMas C# (https://github.com/OziomaEunice/MAS-coursework)
