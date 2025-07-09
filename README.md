@@ -2,11 +2,6 @@
 
 I am Ozioma Eunice O. and welcome to my repository!
 
-- 🔭 I work on various projects (like building websites, creating apps 😄)
-- 🎓 I have a degree in Computer Science
-- 👩🏽‍💼 I'm a Business Analyst & a Creative Technologist (i.e. where software developement meets product design)
-- 💻 In my free time I like to draw 🎨, listen to music 🎧, and.... code!
-
 ## Some of my projects are:
 - SentimentGPT (https://github.com/OziomaEunice/Sentiment_GPT)
 - Housing Of The Future (Energy Efficient Home) using Ada-SPARK (https://github.com/OziomaEunice/FASE_cwk)
