@@ -2,7 +2,10 @@
 
 I am Ozioma Eunice O. and welcome to my repository!
 
-## Some of my projects are:
+## Some of my works & projects are:
+- First Dial Healthcare (https://www.firstdialhealthcarelimited.co.uk/)
+- Explore The Living Word (https://explorethelivingword.com)
+
 - SentimentGPT (https://github.com/OziomaEunice/Sentiment_GPT)
 - Housing Of The Future (Energy Efficient Home) using Ada-SPARK (https://github.com/OziomaEunice/FASE_cwk)
 - Evolving weights for a MLP using Genetic Algorithm (https://github.com/OziomaEunice/CI_cwk)
