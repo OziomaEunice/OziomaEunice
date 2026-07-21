@@ -4,9 +4,9 @@ I am Ozioma Eunice O. and welcome to my repository!
 
 #
 
-## 📫 How to reach me: 
+📫 How to reach me: <img align="left" alt="linkedin" width="20px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>https://www.linkedin.com/in/ozioma-eunice-o/
 
-<img align="left" alt="linkedin" width="20px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>https://www.linkedin.com/in/ozioma-eunice-o/
+#
 
 ## Some of my works & projects are:
 #### Websites for clients
