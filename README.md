@@ -2,6 +2,12 @@
 
 I am Ozioma Eunice O. and welcome to my repository!
 
+#
+
+## 📫 How to reach me: 
+
+<img align="left" alt="linkedin" width="20px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>https://www.linkedin.com/in/ozioma-eunice-o/
+
 ## Some of my works & projects are:
 #### Websites for clients
 - First Dial Healthcare (https://www.firstdialhealthcarelimited.co.uk/)
@@ -37,9 +43,3 @@ and more...
 <img align="left" alt="git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img align="left" alt="github" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <br />
-
-#
-
-### 📫 How to reach me: 
-
-<img align="left" alt="linkedin" width="20px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>https://www.linkedin.com/in/ozioma-eunice-o/
